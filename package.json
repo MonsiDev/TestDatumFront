@@ -10,8 +10,13 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "antd": "^3.26.9",
+    "ol": "^6.2.0",
+    "openlayers": "^4.6.5",
+    "parcel-bundler": "^1.12.4",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-openlayers": "^0.3.0",
     "react-scripts": "3.3.1",
     "typescript": "~3.7.2"
   },
